@@ -3,6 +3,8 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL Https://onureroz.com/indirmeler/turk/index.m3u
 
+#EXTINF:-1 tvg-id="ATV" group-title="ULUSAL",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="TRT1" group-title="ULUSAL",TRT1
 http://176.65.146.171:9981/stream/channelid/838617424?profile=htsp
 #EXTINF:-1 tvg-id="TRT 4K.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuf0VbbCYUyd_hUcaxw_iOtp84-aGKdfkvog&s" group-title="ULUSAL",TRT 4K
