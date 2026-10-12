@@ -11,10 +11,9 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="RTL" tvg-id="RTL.de group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/RTL.png",RTL
 https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD",kabel eins Doku (720p)
+#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD",kabel eins Doku
 https://s6.hopslan.com/dokuX/index.m3u8
 #EXTINF:-1 tvg-id="RTLSuper.de@SD",Super RTL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="VOX.de@SD",VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
@@ -22,10 +21,9 @@ https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Nitro.de@SD",Nitro
 https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de@HD",ProSieben Maxx HD (360p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@HD",ProSieben Maxx HD
 https://lb.iptvnetwork.net/ls28/10828/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.de@SD",Disney Channel (576p)
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD",Disney Channel
 https://s6.hopslan.com/disneyX/index.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
