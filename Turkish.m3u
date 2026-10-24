@@ -5,12 +5,8 @@ http://176.65.146.171:9981/stream/channelid/838617424?profile=htsp
 #EXTINF:0,TRT 4K
 #EXTVLCOPT:network-caching=1000
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
-#EXTINF:0,NOW TV
-#EXTVLCOPT:network-caching=1000
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:0,TV 8
-#EXTVLCOPT:network-caching=1000
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-id="ATV.HD.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:0, SHOW TV HD
 #EXTVLCOPT:network-caching=1000
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
@@ -20,6 +16,12 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:0,STAR TV
 #EXTVLCOPT:network-caching=1000
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
+#EXTINF:0,NOW TV
+#EXTVLCOPT:network-caching=1000
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:0,TV 8
+#EXTVLCOPT:network-caching=1000
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:0,Tabii
 #EXTVLCOPT:network-caching=1000
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
@@ -183,7 +185,7 @@ https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 #EXTINF:0,METROPOL TV
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8?app=supersatforum
-#EXTINF:0,MUGLA TÜRK TV
+#EXTINF:0,MUGLA TÃœRK TV
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:0,OLAY TURK
@@ -204,10 +206,10 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:0,TON TV
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:0,TRAKYA TÜRK TV
+#EXTINF:0,TRAKYA TÃœRK TV
 #EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
-#EXTINF:0,TÜRK KL#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TÃœRK KL#EXTVLCOPT:network-caching=1000
 http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
 #EXTINF:0,TV 25
 #EXTVLCOPT:network-caching=1000
@@ -236,7 +238,7 @@ https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 #EXTINF:0,VRT
 #EXTVLCOPT:network-caching=1000
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
-#EXTINF:0,VTV TÜRK
+#EXTINF:0,VTV TÃœRK
 #EXTVLCOPT:network-caching=1000
 https://ip252.ozelip.com:22524/marstv/marstv/chunklist.m3u8
 #EXTINF:0,VUSLAT TV
@@ -301,13 +303,13 @@ https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/chunklist_w1939638168.m3u8
 #EXTINF:0,ALANYA ATV
 #EXTVLCOPT:network-caching=1000
 https://helga.iptv2022.com/sh/AlanyaTV/tracks-v1a1/mono.m3u8
-#EXTINF:0,HÜR TV
+#EXTINF:0,HÃœR TV
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
-#EXTINF:0,BRÜKSEL TÜRK
+#EXTINF:0,BRÃœKSEL TÃœRK
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
-#EXTINF:0,ÖNDE TV
+#EXTINF:0,Ã–NDE TV
 #EXTVLCOPT:network-caching=1000
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 #EXTINF:0,ANADOLUM TV
@@ -455,7 +457,7 @@ https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinema100
 #EXTINF:0, SiNEMA 1002
 #EXTVLCOPT:network-caching=1000
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://goldvod.org/live/hpgdisco/123456/175.m3u8
-#EXTINF:0, Moviesmart Türk HD
+#EXTINF:0, Moviesmart TÃ¼rk HD
 #EXTVLCOPT:network-caching=1000
 https://ds.ayakkabiparti.lol/mvturk/index.m3u8
 #EXTINF:0, Film Screen HD
@@ -656,7 +658,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TGRT HABER
 #EXTVLCOPT:network-caching=1000
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:0,ÜLKE TV
+#EXTINF:0,ÃœLKE TV
 #EXTVLCOPT:network-caching=1000
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:0,TV100
@@ -671,7 +673,7 @@ https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:0,24 TV
 #EXTVLCOPT:network-caching=1000
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:0,BENGÜ TÜRK
+#EXTINF:0,BENGÃœ TÃœRK
 #EXTVLCOPT:network-caching=1000
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:0,EKOL TV
@@ -689,13 +691,13 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0,KANAL 7 AVRUPA
 #EXTVLCOPT:network-caching=1000
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:0,TRT TÜRK
+#EXTINF:0,TRT TÃœRK
 #EXTVLCOPT:network-caching=1000
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT AVAZ
 #EXTVLCOPT:network-caching=1000
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT MÜZiK
+#EXTINF:0,TRT MÃœZiK
 #EXTVLCOPT:network-caching=1000
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0,KRAL POP TV FHD
@@ -794,7 +796,7 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT D#EXTVLCOPT:network-caching=1000
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TÜRKMENEL#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TÃœRKMENEL#EXTVLCOPT:network-caching=1000
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:0,AKSU TV
 #EXTVLCOPT:network-caching=1000
@@ -819,7 +821,7 @@ https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8
 #EXTINF:0,CAY TV
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
-#EXTINF:0,Ç#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Ã‡#EXTVLCOPT:network-caching=1000
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:0,DERiN TV
 #EXTVLCOPT:network-caching=1000
@@ -922,7 +924,7 @@ https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 #EXTINF:0,METROPOL TV
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8?app=supersatforum
-#EXTINF:0,MUGLA TÜRK TV
+#EXTINF:0,MUGLA TÃœRK TV
 #EXTVLCOPT:network-caching=1000
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:0,OLAY TURK
@@ -999,13 +1001,13 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:0,SAGLIK CHANEL
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
-#EXTINF:0,HÜR TV
+#EXTINF:0,HÃœR TV
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
-#EXTINF:0,BELEMTÜRK
+#EXTINF:0,BELEMTÃœRK
 #EXTVLCOPT:network-caching=1000
 https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8
-#EXTINF:0,BRÜKSEL TÜRK
+#EXTINF:0,BRÃœKSEL TÃœRK
 #EXTVLCOPT:network-caching=1000
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 #EXTINF:0,BEYAZ TV
@@ -1117,7 +1119,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:0,POWER TURK TAPTAZE
 #EXTVLCOPT:network-caching=1000
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:1,Zarok TV Kürtçe
+#EXTINF:1,Zarok TV KÃ¼rtÃ§e
 #EXTVLCOPT:network-caching=1000
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:0,TRT1
